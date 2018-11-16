@@ -20,9 +20,9 @@ Now you need to give the correct smb:// link so that it knows which printer are 
 reference: https://cims.nyu.edu/webapps/content/systems/resources/printing/publicprinting, https://cims.nyu.edu/webapps/content/systems/resources/printing/locations
 
 Now choose "Set authentication details below" option and enter your cims account and password (not your nyu home ones).
-If it doesn't verify don't worry, might still work, just click forward.
+If it doesn't verify don't worry, might still work, just click forward. If you haven't installed packages, you might get ubuntu prompt saying some package not found (with name of packages), then you should go and first install those packages. If you are missing other packages then the 2 mentioned here, try google them and install them.  
 
-Choose Driver part: Choose "select printer from database", for Makes, select "Generic", click forward. (If you found that there is a better way to do it please let me know)
+Choose Driver part: Choose "select printer from database", for Makes, select "Generic", click forward.
 
 Then if asks you to choose model for driver, choose "PostScript" on the left panel, and "Generic PostScript Printer Foomatic/PostScript [en] (recommended)". Click forward.
 
