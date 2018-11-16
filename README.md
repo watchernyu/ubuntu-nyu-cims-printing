@@ -26,4 +26,8 @@ Choose Driver part: Choose "select printer from database", for Makes, select "Ge
 
 Then if asks you to choose model for driver, choose "PostScript" on the left panel, and "Generic PostScript Printer Foomatic/PostScript [en] (recommended)". Click forward.
 
-Pick names and optional description, you should be all set. 
+Pick names and optional description, you should be all set. You can now print from anywhere on NYU campus to that printer.
+
+Note that if you want to print from outside NYU on that printer, you need to first connect to NYU VPN. I also have a short guide on that.
+
+Note I'm not a printer expert, if you figured out a better way to do this please open an issue thank you!
