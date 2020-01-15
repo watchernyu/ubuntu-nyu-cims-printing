@@ -1,6 +1,8 @@
 # ubuntu-nyu-cims-printing
 A short guide on how to setup NYU CIMS printing on Ubuntu. Should work for Ubuntu 18 and 16.
 
+Currently Shanghai supports printing on ubuntu: https://nyu.service-now.com/servicelink/kb_search.do?sysparm_document_key=kb_knowledge,bbc1c573c8f0da842a5d00096be9ccaf 
+
 ## Install packages (Problems with Ubuntu 18)
 You are likely run into wierd problems if you use Ubuntu 18, it seems that some packages are not installed by default, or repository not available by default on Ubuntu 18. So first you need to install some packages. (You might not need to do this if you use Ubuntu 16)
 
